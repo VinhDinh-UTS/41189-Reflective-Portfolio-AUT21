@@ -42,3 +42,28 @@
 - I am lucky to have learnt statistics prior to this subject.
 - That my auto-commit script failed to run.
 - I should not be writing reflective portfolio for week 5 the night before week 6 workshop.
+
+## Week 7
+### What have I learnt this week?
+- That even when I seemingly understand the concept, I still struggle to put it into the rigorous language that machines require, but when I eventually do, the satisfaction is hard to match.
+- Working in a team requires a degree of acceptance, and understanding that the enemy of done is perfect.
+
+## Week 8
+### What have I learnt this week?
+- I learnt that analyzing a system has always been a means to an end, and that whatever goal one has, they have to understand the system they operate in.
+
+## Week 9
+### What have I learnt this week?
+- This week I dived into calculus after a long period of not thinking about it, and finally intuitively understand its purpose and applications.
+
+## Week 10
+- This week, I spent most of my studying time deliberating on which models to use in my final submission and not getting far.
+
+## Week 11
+- I finally decided on two systems that I want to develop, only to abandon both of them as the data I needed was not there. On the positive side, I think I now have a better understanding of group-based modelling and how highly successful individuals use them.
+
+## Week 12
+- We definitely took on more than we can handle, but I think we all came out of it better than when we started. Seeing the submission in its entirety, I may not be happy about the result, but I am proud of how we got there as a group.
+
+#### Footnote
+This practice is suprisingly helpful with consolidating my thoughts into words, and I think I should continue to do this on a personal level. I would probably forget about this in two weeks' time though.
